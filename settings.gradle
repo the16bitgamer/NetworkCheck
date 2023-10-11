@@ -1,0 +1,4 @@
+include ':app', ':NS', ':AppC', ':appcheck', ':networking', ':vibration'
+include ':app:accuratetouch'
+include ':accuratetouch2'
+include ':androidtouch'
